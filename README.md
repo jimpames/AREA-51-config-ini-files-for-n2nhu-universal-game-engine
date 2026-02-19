@@ -3,6 +3,8 @@ AREA-51-config-ini-files-for-n2nhu-universal-game-engine
 
 19 feb 2026
 
+demo video: https://youtu.be/KKo-5-jGydM?si=vBFibIGcSoqSxBMd
+
 AREA 51 CONFIG .ini files
 
 - these go in the CONFIG FOLDER
