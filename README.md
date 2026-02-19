@@ -15,7 +15,7 @@ restart the server and client
 
 use the universal installers
 
-supports local stable diffusion to generate real ttime graphics
+supports local stable diffusion to generate real time graphics
 
 coming soon:
 
