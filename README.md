@@ -1,6 +1,10 @@
 # AREA-51-config-ini-files-for-n2nhu-universal-game-engine
 AREA-51-config-ini-files-for-n2nhu-universal-game-engine
 
+20 feb 2026
+
+new stablediffusion.ini fixes graphics for inventory and battle in area 51 version
+
 19 feb 2026
 
 demo video: https://youtu.be/KKo-5-jGydM?si=vBFibIGcSoqSxBMd
