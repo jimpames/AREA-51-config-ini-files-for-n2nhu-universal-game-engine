@@ -1,6 +1,11 @@
 # AREA-51-config-ini-files-for-n2nhu-universal-game-engine
 AREA-51-config-ini-files-for-n2nhu-universal-game-engine
 
+22 FEB auto world generator (beta)
+
+https://github.com/jimpames/n2nhu-infinite-improbabilty-drive-for-universal-game-engine
+
+
 21 FEB 2026
 
 DEV TEAM COMMS and SUPPORT and COMMUNITY
